@@ -1,3 +1,2 @@
-# website
-
-Logo replaced with a sample logo.
+# Website
+A web site template for small business.
